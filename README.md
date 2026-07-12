@@ -25,4 +25,4 @@ Backend developer in progress -- currently deep in Python, OOP design, and daily
 Подборка примеров по продвинутому ООП в Python: наследование и полиморфизм, паттерны Singleton и Monostate, дескрипторы и миксины, свойства (`property`) и магический метод `__call__` -- каждая тема разобрана в отдельном файле.
 
 ### 🔹 [leetcode-grind](https://github.com/goodgooddev/leetcode-grind)
-Ежедневная практика по NeetCode 150
+Прогресс по NeetCode 150 — одной из лучших подборок задач для подготовки к тех.собеседованиям, пересекается с классическим списком Blind 75. Решения разложены по темам, прогресс отмечен чек-листом.
