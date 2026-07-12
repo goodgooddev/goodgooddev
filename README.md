@@ -4,7 +4,7 @@ Backend developer in progress — currently deep in Python, OOP design, and dail
 
 - 🔭 Currently building **[]**
 - 🌱 Currently learning **[FastAPI / Django / PostgreSQL / Docker]**
-- 📈 Solving [NeetCode 150](https://neetcode.io/practice/practice/neetcode150), one problem a day — [progress log](https://github.com/goodgooddev/leetcode-grind)
+- 📈 Solving [NeetCode 150](https://neetcode.io/practice/practice/neetcode150) daily
 - 💬 Ask me about **Python, OOP, algorithms**
 - 📫 Telegram: [@goodgooddev](https://t.me/goodgooddev)
 
