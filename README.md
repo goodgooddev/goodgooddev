@@ -1,10 +1,10 @@
 # Hi, I'm Ruslan👋
 
-Backend developer in progress -- currently deep in Python, OOP design, and daily algorithm practice.
+Backend developer in progress — currently deep in Python, OOP design, and daily algorithm practice.
 
-- 🔭 No active project yet -- first backend build starts in ~2 weeks
+- 🔭 No active project yet — first backend build starts in ~2 weeks
 - 🌱 Currently learning **FastAPI and PostgreSQL**
-- 📈 Solving [NeetCode 150](https://neetcode.io/practice/practice/neetcode150) daily -- one of the strongest problem sets for DSA interview prep, overlaps with the classic Blind 75
+- 📈 Solving [NeetCode 150](https://neetcode.io/practice/practice/neetcode150) daily — one of the strongest problem sets for DSA interview prep, overlaps with the classic Blind 75
 - 📫 Telegram: [@goodgooddev](https://t.me/goodgooddev?direct)
 
 ## 🛠️ Tech Stack
@@ -22,7 +22,7 @@ Backend developer in progress -- currently deep in Python, OOP design, and daily
 ## 📌 Featured Projects
 
 ### 🔹 [advanced-oop-python](https://github.com/goodgooddev/advanced-oop-python)
-Подборка примеров по продвинутому ООП в Python: наследование и полиморфизм, паттерны Singleton и Monostate, дескрипторы и миксины, свойства (`property`) и магический метод `__call__` -- каждая тема разобрана в отдельном файле.
+Подборка примеров по продвинутому ООП в Python: наследование и полиморфизм, паттерны Singleton и Monostate, дескрипторы и миксины, свойства (`property`) и магический метод `__call__` — каждая тема разобрана в отдельном файле.
 
 ### 🔹 [leetcode-grind](https://github.com/goodgooddev/leetcode-grind)
 Прогресс по NeetCode 150 — одной из лучших подборок задач для подготовки к тех.собеседованиям, пересекается с классическим списком Blind 75. Решения разложены по темам, прогресс отмечен чек-листом.
