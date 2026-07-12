@@ -2,10 +2,9 @@
 
 Backend developer in progress — currently deep in Python, OOP design, and daily algorithm practice.
 
-- 🔭 Currently building **[]**
+- 🔭 No active project yet — first backend build starts in ~2 weeks
 - 🌱 Currently learning **FastAPI and PostgreSQL**
-- 📈 Solving [NeetCode 150](https://neetcode.io/practice/practice/neetcode150) daily
-- 💬 Ask me about **Python, OOP, algorithms**
+- 📈 Solving [NeetCode 150](https://neetcode.io/practice/practice/neetcode150) daily - one of the strongest problem sets for DSA interview prep, overlaps with the classic Blind 75
 - 📫 Telegram: [@goodgooddev](https://t.me/goodgooddev?direct)
 
 ## 🛠️ Tech Stack
