@@ -10,10 +10,10 @@ Backend developer in progress — currently deep in Python, OOP design, and dail
 
 ## 🛠️ Tech Stack
 
-![Python](https://simpleicons.org/icons/python.svg)
-![Git](https://simpleicons.org/icons/git.svg)
-![FastAPI](https://simpleicons.org/icons/fastapi.svg)
-![Docker](https://simpleicons.org/icons/docker.svg)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📌 Featured Projects
 
