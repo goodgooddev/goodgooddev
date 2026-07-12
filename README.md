@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Ruslan👋
 
 Backend developer in progress — currently deep in Python, OOP design, and daily algorithm practice.
 
