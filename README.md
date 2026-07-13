@@ -1,6 +1,6 @@
 # Hi, I'm Ruslan👋
 
-Backend developer in progress — currently deep in Python, OOP design, and daily algorithm practice.
+Backend developer in progress — currently deep in Python, OOP, and daily algorithm practice.
 
 - 🔭 No active project yet — first backend build starts in ~2 weeks
 - 🌱 Currently learning **FastAPI and PostgreSQL**
