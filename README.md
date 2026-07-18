@@ -26,4 +26,3 @@ Backend developer in progress — currently deep in Python, OOP, and daily algor
 
 ### 🔹 [leetcode-grind](https://github.com/goodgooddev/leetcode-grind)
 Прогресс по NeetCode 150 — одной из лучших подборок задач для подготовки к тех.собеседованиям, пересекается с классическим списком Blind 75. Решения разложены по темам, прогресс отмечен чек-листом.
-
