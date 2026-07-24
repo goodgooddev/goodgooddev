@@ -29,3 +29,4 @@ Backend developer in progress — currently deep in Python, OOP, and daily algor
 
 Something big is coming...
 
+asd
